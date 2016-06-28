@@ -5,7 +5,8 @@
     "branch": "master"
   },
   "site": {
-    "title": "NeuraLab"
+    "title": "NeuraLab",
+    "disqus": "disqus_zjk7JctwgC"
   },
   "socialnetwork": {
     "email": "cgarcia.e88@gmail.com",
