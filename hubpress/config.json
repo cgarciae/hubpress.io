@@ -4,7 +4,9 @@
     "repositoryName": "cgarciae.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "NeuraLab"
+  },
   "socialnetwork": {
     "email": "cgarcia.e88@gmail.com",
     "twitter": "cgarciae5",
