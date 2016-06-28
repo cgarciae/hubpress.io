@@ -4,7 +4,14 @@
     "repositoryName": "cgarciae.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "email": "cgarcia.e88@gmail.com",
+    "twitter": "cgarciae5",
+    "googleplus": "cgarcia.e88",
+    "github": "cgarciae"
+  },
   "theme": {
-    "name": "uno-zen"
+    "name": "casper"
   }
 }
